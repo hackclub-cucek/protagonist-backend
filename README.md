@@ -8,9 +8,7 @@ Fully automated *event management portal for Hack Club Chapters*. By configuring
  - Mongodb 
 
 ## Things to do
-- [ ] Choose best tech stack 
-- [ ] Ui/Ux design 
-- [ ] Python Flask API
-- [ ] G-Mail API with flask 
-- [ ] Webhooks and error handling 
-- [ ] Hosting and scaling 
+- [x] Choose best tech stack 
+- [ ] Authentication API
+- [ ] User profile 
+- [ ] Event Schedule API
