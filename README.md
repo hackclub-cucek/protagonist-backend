@@ -4,9 +4,8 @@ Fully automated *event management portal for Hack Club Chapters*. By configuring
 
 ## Tech stack recommended 
 
- - Next js/Gatsby js 
- - Python Flask 
- - Firebase 
+ - Node js | Express js 
+ - Mongodb 
 
 ## Things to do
 - [ ] Choose best tech stack 
